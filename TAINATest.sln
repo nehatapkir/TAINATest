@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAINATest", "TAINATest\TAINATest.csproj", "{BAFDE50D-8E16-4FCD-BDBB-19A4C64F4A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleAPITest", "PeopleAPITest\PeopleAPITest.csproj", "{64CE461F-30C1-4CB9-B8FE-6C26091A91DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFDE50D-8E16-4FCD-BDBB-19A4C64F4A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFDE50D-8E16-4FCD-BDBB-19A4C64F4A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFDE50D-8E16-4FCD-BDBB-19A4C64F4A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFDE50D-8E16-4FCD-BDBB-19A4C64F4A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CE461F-30C1-4CB9-B8FE-6C26091A91DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CE461F-30C1-4CB9-B8FE-6C26091A91DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CE461F-30C1-4CB9-B8FE-6C26091A91DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CE461F-30C1-4CB9-B8FE-6C26091A91DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872B5CE8-8405-4F04-BB74-D66A76EDD5DF}
+	EndGlobalSection
+EndGlobal
